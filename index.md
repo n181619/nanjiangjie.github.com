@@ -1,6 +1,7 @@
 ## 基本信息
-姓名 南江杰          
+![ ](https://github.com/n181619/nanjiangjie.github.com/blob/gh-pages/t01f49c59f202f1bd10.jpg)      
 
+姓名 南江杰
 
 生日 2003.10.15
 
