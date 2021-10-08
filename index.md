@@ -1,6 +1,6 @@
 ## 基本信息
 
-![ ](https://github.com/n181619/nanjiangjie.github.com/blob/gh-pages/t01f49c59f202f1bd10.jpg)      
+![ ](https://c-ssl.duitang.com/uploads/item/201608/28/20160828230337_a8MUz.jpeg)      
 
 姓名 南江杰
 
