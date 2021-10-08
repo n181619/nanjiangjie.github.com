@@ -1,5 +1,9 @@
-## Welcome to GitHub Pages
+## 基本信息
+姓名 南江杰
 
+生日 2003.10.15
+
+籍贯 吉林
 
 
 You can use the [editor on GitHub](https://github.com/n181619/nanjiangjie.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
