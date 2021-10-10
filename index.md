@@ -1,3 +1,5 @@
+<a id="tips"></a>
+
 ## 基本信息
 
 ![ ](https://raw.githubusercontent.com/n181619/nanjiangjie.github.com/gh-pages/t01f49c59f202f1bd10.jpg)      
