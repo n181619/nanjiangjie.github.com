@@ -12,7 +12,7 @@
 
 兴趣爱好 睡觉、玩电脑
 
-<a href="https://www.bilibili.com/" target="blank">dd</a>
+<a href="https://www.bilibili.com/" target="blank">哔哩哔哩</a>
 ### Mark
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
