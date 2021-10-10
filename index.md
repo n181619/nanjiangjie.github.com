@@ -10,7 +10,7 @@
 
 现居住地 北京
 
-<a href="https://www.bilibili.com/">dd</a>
+<a href="https://www.bilibili.com/" target="blank">dd</a>
 ### Mark
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
