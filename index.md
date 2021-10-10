@@ -20,4 +20,8 @@
 
 <a href="http://www.4399.com/" taget="blank">4399</a>
 
+## 动态
+
+果然假期是不存在上午的
+
 <a href="#tips">回到顶端</a>
