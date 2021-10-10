@@ -10,6 +10,8 @@
 
 现居住地 北京
 
+兴趣爱好 睡觉、玩电脑
+
 <a href="https://www.bilibili.com/" target="blank">dd</a>
 ### Mark
 
