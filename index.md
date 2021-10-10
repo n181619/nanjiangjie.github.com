@@ -18,7 +18,7 @@
 
 <a href="https://www.bilibili.com/" target="blank">哔哩哔哩</a>
 
-<a href="http://www.4399.com/" taget="blank">4399</a>
+<a href="http://www.4399.com/" target="blank">4399</a>
 
 ## 动态
 
