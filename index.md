@@ -22,11 +22,11 @@
 
 ## 动态
 
-果然假期是不存在上午的    10.7
+果然假期是不存在上午的。    10.7
 
 ![ ](https://t12.baidu.com/it/u=3222659144,818555076&fm=173&app=49&f=JPEG?w=530&h=403&s=2B8C79235AF56DA7F61C21DE030080A2)
 
-我就是ddl战士  10.2
+我就是ddl战士！  10.2
 
 ![ ](https://raw.githubusercontent.com/n181619/nanjiangjie.github.com/gh-pages/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20211012225952.jpg)
 
